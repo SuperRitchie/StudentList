@@ -1,0 +1,9 @@
+Big O:
+
+Search function has complexity of O(n^2) because it runs a nested if/else statement inside the while loop
+
+Insert function has complexity of O(n) because it runs a single if/else statement
+
+Sort function has complexity of O(n^2) because it runs a do while statement with a nested if/else statement inside it
+
+Delete function has complexity of O(n^7) because it has 7 nested while and if/else statements
